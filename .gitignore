@@ -1,0 +1,10 @@
+.vscode/
+*.exe
+*.a
+*.o
+**/__pycache__
+*.log
+*.pth
+*.pdb
+data/
+img/
